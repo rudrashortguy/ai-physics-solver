@@ -1,0 +1,15 @@
+fastapi[standard]
+pytesseract
+pillow
+matplotlib
+httpx
+python-multipart
+pydantic-settings
+aiocache
+pytest
+pytest-cov
+respx
+pytest-asyncio
+ruff
+mypy
+bandit
